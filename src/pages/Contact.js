@@ -1,7 +1,7 @@
 import React from "react";
 import Navigation from "../components/Navigation";
 
-const contact = () => {
+const Contact = () => {
   return (
     <div>
       <Navigation />
@@ -9,4 +9,4 @@ const contact = () => {
   );
 };
 
-export default contact;
+export default Contact;
