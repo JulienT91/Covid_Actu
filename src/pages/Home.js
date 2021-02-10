@@ -1,12 +1,12 @@
 import React from "react";
-import CovidCount from "../components/TryApi";
 import Navigation from "../components/Navigation";
+import TryApi from "../components/TryApi";
 
 const Home = () => {
   return (
     <div className="home">
       <Navigation />
-      <CovidCount />
+      <TryApi />
     </div>
   );
 };
