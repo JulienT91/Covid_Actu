@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 
 const TryApi = () => {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState(["hello"]);
 
-  return <div></div>;
+  return <div>{data}</div>;
 };
 
 export default TryApi;
