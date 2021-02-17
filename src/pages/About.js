@@ -8,19 +8,11 @@ const About = () => {
       <h1>A Propos</h1>
       <br />
       <p>
-        Normally, both your asses would be dead as fucking fried chicken, but
-        you happen to pull this shit while I'm in a transitional period so I
-        don't wanna kill you, I wanna help you. But I can't give you this case,
-        it don't belong to me. Besides, I've already been through too much shit
-        this morning over this case to hand it over to your dumb ass.
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       </p>
       <br />
       <p>
-        Normally, both your asses would be dead as fucking fried chicken, but
-        you happen to pull this shit while I'm in a transitional period so I
-        don't wanna kill you, I wanna help you. But I can't give you this case,
-        it don't belong to me. Besides, I've already been through too much shit
-        this morning over this case to hand it over to your dumb ass.
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       </p>
     </div>
   );
